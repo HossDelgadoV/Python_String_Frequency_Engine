@@ -1,4 +1,5 @@
 [package]
+<<<<<<< HEAD
 name = "string_frequency_analyzer"
 version = "0.2.0"
 edition = "2021"
@@ -39,3 +40,11 @@ winapi = { version = "0.3.9", features = ["winuser", "windef"] }
 
 # File Dialogs
 rfd = "0.11.0"
+=======
+name = "aesthetic_window"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced = { version = "0.9", features = ["canvas", "debug", "image", "tokio"] }
+>>>>>>> b5aa1aeaf907ed7d4697fe93807df9c1e4e588b4
