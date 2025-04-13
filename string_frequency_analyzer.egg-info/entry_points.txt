@@ -1,0 +1,2 @@
+[console_scripts]
+string-analyzer = string_analyzer.cli:main

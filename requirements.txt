@@ -1,0 +1,18 @@
+# Python dependencies for String Frequency Engine
+# Run: pip install -r requirements.txt
+
+# Core dependencies
+numpy==1.26.3       # For numerical operations
+pandas==2.1.4       # For data manipulation and analysis
+matplotlib==3.8.2   # For data visualization
+
+# REST API dependencies
+flask==2.3.3        # Web framework for RESTful API
+flask-cors==4.0.0   # Cross-Origin Resource Sharing for Flask
+requests==2.31.0    # HTTP library for API clients
+gunicorn==21.2.0    # WSGI HTTP Server (for production deployment)
+
+# Optional text analysis enhancements
+nltk==3.8.1         # Natural Language Toolkit for advanced text processing
+scikit-learn==1.4.0 # For machine learning techniques (clustering, classification)
+wordcloud==1.9.3    # For generating word clouds

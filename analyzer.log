@@ -1,0 +1,13 @@
+2025-04-13 18:15:10,155 - StringAnalyzer - ERROR - Error analyzing file 'sample.txt': [Errno 2] No such file or directory: 'sample.txt'
+2025-04-13 18:16:58,069 - StringAnalyzer.CLI - ERROR - Error reading file 'sample.txt': [Errno 2] No such file or directory: 'sample.txt'
+2025-04-13 18:17:34,247 - StringAnalyzer.CLI - ERROR - Error reading file 'sample.txt': [Errno 2] No such file or directory: 'sample.txt'
+2025-04-13 18:17:50,601 - StringAnalyzer - INFO - Analyzing text of length 18
+2025-04-13 18:19:05,360 - StringAnalyzer - INFO - Analyzing text of length 19
+2025-04-13 18:19:14,614 - StringAnalyzer - INFO - Analyzing text of length 14
+2025-04-13 18:23:25,628 - StringAnalyzer - INFO - Analyzing text of length 18
+2025-04-13 18:23:45,787 - StringAnalyzer - INFO - Analyzing text of length 18
+2025-04-13 18:27:14,686 - StringAnalyzer - INFO - Analyzing text of length 22
+2025-04-13 19:09:18,850 - StringAnalyzer.API - INFO - Starting String Frequency Analyzer API server...
+2025-04-13 19:09:18,880 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-13 19:09:18,880 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
