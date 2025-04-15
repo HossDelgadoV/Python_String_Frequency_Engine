@@ -33,6 +33,11 @@ env_logger = "0.10.0"
 thiserror = "1.0.48"
 anyhow = "1.0.75"
 
-
+# Windows API
 winapi = { version = "0.3.9", features = ["winuser", "windef"] }
+
+# File dialog
 rfd = "0.15.3"
+
+# Base64 encoding/decoding for images
+base64 = "0.21.5"

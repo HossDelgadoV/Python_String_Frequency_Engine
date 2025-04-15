@@ -16,3 +16,5 @@ gunicorn==21.2.0    # WSGI HTTP Server (for production deployment)
 nltk==3.8.1         # Natural Language Toolkit for advanced text processing
 scikit-learn==1.4.0 # For machine learning techniques (clustering, classification)
 wordcloud==1.9.3    # For generating word clouds
+textstat
+spacy
